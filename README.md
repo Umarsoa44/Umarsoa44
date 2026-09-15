@@ -254,7 +254,7 @@
 
 📩 Always open to technical discussions, collaboration, learning opportunities and professional connections.
 
-🧠 My Security Philosophy-
+🧠 My Security Philosophy - 
 🔐 "You cannot protect what you cannot understand, inspect, log and baseline."
 
 
