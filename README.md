@@ -250,7 +250,7 @@
 🔗 https://github.com/Umarsoa44
 
 💬 Discord
-ib4_bs
+🔗 [ib4_bs](https://discord.com/users/769466296235851778)
 
 📩 Always open to technical discussions, collaboration, learning opportunities and professional connections.
 
