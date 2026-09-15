@@ -241,7 +241,7 @@
 
 🎯 I'm particularly interested in opportunities where I can contribute as a fresher while continuing to develop practical, professional-level technical skills.
 
-🤝 Let's Connect
+## 🤝 Let's Connect
 
 💼 LinkedIn
 🔗 https://www.linkedin.com/in/umar-farooq-shaikh44
@@ -254,11 +254,11 @@
 
 📩 Always open to technical discussions, collaboration, learning opportunities and professional connections.
 
-🧠 My Security Philosophy
-
+🧠 My Security Philosophy-
 🔐 "You cannot protect what you cannot understand, inspect, log and baseline."
 
-⭐ Thanks for visiting my profile!
+
+## ⭐ Thanks for visiting my profile!
 
 💻 Building practical skills.
 🛡️ Learning cybersecurity.
@@ -266,4 +266,4 @@
 🏭 Exploring industrial security.
 🚀 Preparing for the next opportunity.
 
-Keep learning. Keep building. Keep securing. 🔐
+## Keep learning. Keep building. Keep securing. 🔐
